@@ -1,0 +1,10 @@
+Ab_or_Nano:
+  - Antibody
+  - VHH
+  - scFv
+  - BJ
+
+Reason_Code:
+  - not_reported
+  - conflicting
+  - inferred

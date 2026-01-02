@@ -1,0 +1,45 @@
+PDB:
+  search_api: https://search.rcsb.org/rcsbsearch/v2/query
+  entry_api: https://data.rcsb.org/rest/v1/core/entry
+  pdb_file_api: https://files.rcsb.org/download
+
+UniProt:
+  api: https://rest.uniprot.org/uniprotkb/search
+  format: tsv
+
+SAbDab:
+  release_url: https://opig.stats.ox.ac.uk/webapps/newsabdab/sabdab/latest/
+
+SAbDab_nano:
+  release_url: https://opig.stats.ox.ac.uk/webapps/newsabdab/sabdab/nano/
+
+OAS:
+  release_url: https://opig.stats.ox.ac.uk/webapps/oas/
+
+abYbank:
+  release_url: https://abybank.org/download/
+
+AB_Bind:
+  release_url: https://github.com/csbyzu/AB-Bind-database
+
+PLAbDab:
+  release_url: https://opig.stats.ox.ac.uk/webapps/plabdab/
+
+sdAb_DB:
+  release_url: https://sdab-db.ca/download/
+
+INDI:
+  release_url: https://indi.cs.tau.ac.il/downloads/
+
+PDBbind:
+  release_url: http://www.pdbbind.org.cn/download.php
+  version: v2020
+
+SKEMPI:
+  release_url: https://life.bsc.es/pid/skempi2/
+
+DACUM:
+  release_url: https://github.com/CSB-Lab/DACUM
+
+MpdPPI:
+  release_url: https://github.com/YueHuLab/MpdPPI

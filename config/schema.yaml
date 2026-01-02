@@ -1,0 +1,11 @@
+fields:
+  - Source
+  - PDB_ID
+  - Ab_or_Nano
+  - H_Chain_Seq
+  - L_Chain_Seq
+  - Ag_Seq
+  - Affinity_Kd
+  - Affinity_Method
+  - Reason_Code
+  - Predicted_or_Not
