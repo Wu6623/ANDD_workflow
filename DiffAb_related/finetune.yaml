@@ -1,0 +1,6 @@
+data_path: data/processed/andd_diffab_train.jsonl
+pretrained_ckpt: diffab_pretrained.ckpt
+epochs: 3
+batch_size: 4
+learning_rate: 1e-4
+output_dir: outputs/diffab_andd_finetuned

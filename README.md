@@ -344,6 +344,15 @@ Produces:
 
 ---
 
+### Step 10 — DiffAb fine-tuning and evaluation
+
+This workflow is provided solely as a proof-of-concept demonstration of dataset usability.
+It is not intended as a benchmark or comparative evaluation of DiffAb or any other generative model.
+No claims regarding model performance or state-of-the-art results are made.
+
+---
+
+
 ## 7. Reproducibility Statement
 
 All steps required to construct ANDD are implemented as executable scripts.
